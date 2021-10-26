@@ -47,6 +47,19 @@ This is a simple CLI interface database application for a simplified database fo
     `Username: root`
     `Password: <entered_by_you>`
                                 
-
-
 - Follow the instructions on the screen.
+
+## Commands for the user
+
+### 1. Command1 - 
+Description of the command
+
+
+### 2. Command2 - 
+Description of the command
+
+## Commands Shown in the video (OrderWise)-
+1. Command name 
+2. Command name 
+
+
