@@ -43,7 +43,7 @@ This is a simple CLI interface database application for a simplified database fo
     Publisher: cweijan
     VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2.
 
-- use `python3 Insurance_Company.py` to start the CLI. Then enter 
+- Use `python3 Insurance_Company.py` to start the CLI. Then enter 
     `Username: root`
     `Password: <entered_by_you>`
                                 
